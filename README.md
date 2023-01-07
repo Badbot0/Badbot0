@@ -1,6 +1,6 @@
-👋Oi, eu sou Bad (Luiz)
+👋Oi, eu sou Bad
 
-Tenho 22 anos, moro no Salvador, Brasil
+Tenho 24 anos, moro no Salvador, Brasil
 
 Criador do bot de vendas "Sistema de Pagamento"
 
