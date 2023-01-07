@@ -10,4 +10,4 @@ Discord server Developer
 
 Convite de bot:
 
-https://discord.gg/BEYKH6hM
+https://discord.gg/WFnDJG8Eb7
