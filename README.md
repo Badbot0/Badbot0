@@ -1,6 +1,6 @@
 👋Oi, eu sou Bad
 
-Tenho 24 anos, moro no Salvador, Brasil
+Tenho 18 anos, moro no Salvador, Brasil
 
 Criador do bot de vendas "Sistema de Pagamento"
 
